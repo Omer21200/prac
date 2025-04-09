@@ -1,3 +1,5 @@
+# Materias Aprobadas
+
 # Ciclo I
 - Fundamentos Computacionales
 - Fundamentos Matemáticos
